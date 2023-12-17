@@ -109,6 +109,7 @@ font-size: small;
 }
 .size-col p{
     margin: 5px;
+    font-family: sans-serif;
 }
 .option{
     display: flex;
